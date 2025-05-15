@@ -19,7 +19,7 @@ Make sure you have the following dependencies installed before using the QR code
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/Abdul-Moez/QR-Code-Generator.git
+git clone https://github.com/Iman-Sohail/QR-Code-Generator.git
 cd QR-Code-Generator
 ```
 
